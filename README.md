@@ -4,7 +4,7 @@ Welcome to Dengitos Sparx Method, a Free browser extension designed to assist yo
 Download the Extension Visit: https://www.dropbox.com/scl/fo/epr0uihxhpze6kl382zm2/ALNtOQ5ExsOC6SSXAeJLfUw?rlkey=28o5esr7zkum05ddxtm6zwzt0&st=4wzuvtnq&dl=0
 
 
-Download the file.
+Download the FOLDER. YOU MUST DOWNLOAD THE WHOLE FOLDER
 Extract the Zip File:
 
 Unzip the downloaded file to a location convenient for you, such as your desktop or documents folder.
